@@ -1,0 +1,39 @@
+//
+//  Vietnam_s_Sightseeings___CTests.m
+//  Vietnam's Sightseeings - CTests
+//
+//  Created by Thang H Tong on 11/30/15.
+//  Copyright © 2015 Thang. All rights reserved.
+//
+
+#import <XCTest/XCTest.h>
+
+@interface Vietnam_s_Sightseeings___CTests : XCTestCase
+
+@end
+
+@implementation Vietnam_s_Sightseeings___CTests
+
+- (void)setUp {
+    [super setUp];
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+}
+
+- (void)tearDown {
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    [super tearDown];
+}
+
+- (void)testExample {
+    // This is an example of a functional test case.
+    // Use XCTAssert and related functions to verify your tests produce the correct results.
+}
+
+- (void)testPerformanceExample {
+    // This is an example of a performance test case.
+    [self measureBlock:^{
+        // Put the code you want to measure the time of here.
+    }];
+}
+
+@end
